@@ -4,6 +4,6 @@ https://anbasile.github.io/posts/2017-06-25-jupyter-venv/
 
 # Requirement
 Module:  
-    $ensp;Pandas  
-    $ensp;sklearn  
-    $ensp;graphviz (for visualization)
+    &ensp; Pandas  
+    &ensp; sklearn  
+    &ensp; graphviz (for visualization)
